@@ -1,6 +1,7 @@
+opencv-python
 streamlit
-tensorflow
+tensorflow==2.15.0
 numpy
 pillow
 scikit-learn
-opencv-python
+h5py
